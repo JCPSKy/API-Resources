@@ -30,7 +30,7 @@ The API platform is provided "as is" and on an "as-available" basis. While we wi
 In no event will {{SchoolSystemAbbreviation}} be liable with respect to any subject matter of this Agreement under any contract, negligence, strict liability or other legal or equitable theory for: (1) any special, incidental, or consequential damages; (2) the cost of procurement of substitute products or services; (3) for interruption of use or loss or corruption of data; or (4) for any other cause.
 
 ## Severability
-If any part, portion, section or other portion of this Agreement is deemed to be invalid or illegal, all remaining provisions and language in this Agreement shall remain in effect.
+If any part of this Agreement is deemed to be invalid or illegal, all remaining provisions and language in this Agreement shall remain in effect.
 
 ## Miscellaneous
 This Agreement constitutes the entire Agreement between {{SchoolSystemAbbreviation}} and you concerning the subject matter hereof, and may only be modified by the posting of a revised version of this Agreement by {{SchoolSystemAbbreviation}}.

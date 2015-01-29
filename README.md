@@ -2,7 +2,7 @@ Developer-Resources
 ===================
 A public domain Web API Terms of Service document for United States public school systems. (To do: Make it internationally applicable.)
 
-This resource is a very open web API, broadly releasing related the data from the Web API in the public domain, under a CC0 1.0 license.
+This resource is a very open web API, broadly releasing the data from the Web API in the public domain, under a CC0 1.0 license.
 https://creativecommons.org/publicdomain/zero/1.0/
 
 It carefully covers service and use restrictions for the promised resources, while enabling developers to use the API without restriction.
