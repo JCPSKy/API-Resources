@@ -1,20 +1,7 @@
-Developer-Resources
+API Resources
 ===================
-A public domain Web API Terms of Service document for United States public school systems. (To do: Make it internationally applicable.)
+A collection of API resources at Jefferson County Public Schools.
 
-This resource is a very open web API, broadly releasing the data from the Web API in the public domain, under a CC0 1.0 license.
-https://creativecommons.org/publicdomain/zero/1.0/
+File: Api Documentation.docx contains definitions for all of the district's growing API endpoints. Many of these endpoints require authorization. If no personal information exists, the endpoint is open. All APIs are governed by the Terms of Service articulated below.
 
-It carefully covers service and use restrictions for the promised resources, while enabling developers to use the API without restriction.
-
-This ToS is a best of both worlds effort, based on Federal agency standards, intended to enable developers to focus on development and restrict the effect of promises made by the API provider.
-
-Author: Kyle McCormick
-
-Agency: Jefferson County Public Schools, Kentucky
-
-Date Created: 1/29/2015
-
-Notes: A few edits to the Web API ToS project on github for use by U.S. public school districts that have API's.
-
-Based on the Federal Web API github effort, orginally posted here: https://github.com/GSA/API-Resources/tree/master/developer_tos
+Folder: developer-tos contains a sample terms of service template for United States public school districts and a sample version of that API from Jefferson County Public Schools. This terms of service document largely mimics [The Creative Commons Zero License](https://creativecommons.org/publicdomain/zero/1.0/).
